@@ -1,2 +1,2 @@
 # VR_Project-Mad_Scientist_Lab
-A VR project make in Unity by a team made for our Diploma of Digital and Interactive Games
+A VR Level made in Unity by me and a team of other people for our Diploma of Digital and Interactive Games
