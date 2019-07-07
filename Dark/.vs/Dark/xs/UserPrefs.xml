@@ -1,0 +1,45 @@
+﻿<Properties StartupConfiguration="{09E0C576-2370-228E-CE65-4B2AE5300EBD}|">
+  <MonoDevelop.Ide.Workbench>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Dark" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="PostProcessing" expanded="True">
+                <Node name="Editor" expanded="True">
+                  <Node name="PropertyDrawers" expanded="True" />
+                </Node>
+              </Node>
+              <Node name="ShaderForge" expanded="True">
+                <Node name="Editor" expanded="True">
+                  <Node name="InternalResources" expanded="True">
+                    <Node name="Inspectors" expanded="True" />
+                  </Node>
+                </Node>
+                <Node name="Example Assets" expanded="True">
+                  <Node name="Shaders" expanded="True" />
+                </Node>
+              </Node>
+              <Node name="VR Scripts" expanded="True">
+                <Node name="Enemy" expanded="True" />
+                <Node name="Helpers" expanded="True" />
+                <Node name="Managers" expanded="True" />
+                <Node name="Miscellaneous" expanded="True">
+                  <Node name="Projectile.cs" selected="True" />
+                </Node>
+                <Node name="Player" expanded="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="68e78418-6f97-4ee2-8e8c-c7aeea755d02" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

@@ -1,0 +1,155 @@
+fileFormatVersion: 2
+guid: ea34fa0b014be4b0ea3546b61b9e78b5
+timeCreated: 1528085446
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: base
+    100002: clamp
+    100004: clamp1
+    100006: middle
+    100008: scalpel
+    100010: scalpel1
+    100012: scalpel2
+    100014: strap1
+    100016: strap2
+    100018: strap3
+    100020: strap4
+    100022: //RootNode
+    100024: top
+    400000: base
+    400002: clamp
+    400004: clamp1
+    400006: middle
+    400008: scalpel
+    400010: scalpel1
+    400012: scalpel2
+    400014: strap1
+    400016: strap2
+    400018: strap3
+    400020: strap4
+    400022: //RootNode
+    400024: top
+    2300000: base
+    2300002: clamp
+    2300004: clamp1
+    2300006: middle
+    2300008: scalpel
+    2300010: scalpel1
+    2300012: scalpel2
+    2300014: strap1
+    2300016: strap2
+    2300018: strap3
+    2300020: strap4
+    2300022: top
+    2300024: //RootNode
+    3300000: base
+    3300002: clamp
+    3300004: clamp1
+    3300006: middle
+    3300008: scalpel
+    3300010: scalpel1
+    3300012: scalpel2
+    3300014: strap1
+    3300016: strap2
+    3300018: strap3
+    3300020: strap4
+    3300022: top
+    3300024: //RootNode
+    4300000: top
+    4300002: middle
+    4300004: base
+    4300006: strap1
+    4300008: strap2
+    4300010: strap3
+    4300012: strap4
+    4300014: scalpel
+    4300016: clamp
+    4300018: scalpel1
+    4300020: scalpel2
+    4300022: clamp1
+    4300024: table
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: TomSmat
+    second: {fileID: 2100000, guid: d5fac9314b4c74a4a92f0bfb9c9a5be6, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
